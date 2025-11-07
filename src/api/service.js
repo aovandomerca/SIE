@@ -22,7 +22,7 @@ const Services = [
         sImg: simg,
         sImgS: sImgS1,
         sTitle: 'Cápsula 1',
-        description: 'EL GENIO DE JESÚS: El hombre que lo cambió todo',
+        description: 'EL GENIO DE JESÚS: El hombre que lo cambió todo ',
         videoUrl: 'https://drive.google.com/file/d/15bISYKYZGOgnx9Ot_8jmJ3NNrQwlGfD2/view?usp=sharing',
         des2: 'Fecha: 20 de Octubre',
         des3: 'One way to categorize the activities is in terms of the professional’s area of expertise such as competitive analysis, corporate strategy the activities',
