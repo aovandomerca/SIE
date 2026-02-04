@@ -76,7 +76,7 @@ const Footer = (props) => {
                                     </li>
 
                                     <li>
-                                        <h4><Link onClick={ClickHandler} to="/reglas-seguridad">10 reglas de oro Ciberseguridad</Link></h4>
+                                        <h4><Link onClick={ClickHandler} to="/reglas-seguridad">Seguridad digital para colaboradores</Link></h4>
                                     </li>
                                 </ul>
                             </div>

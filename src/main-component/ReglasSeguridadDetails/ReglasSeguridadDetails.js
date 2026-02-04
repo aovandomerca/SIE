@@ -9,7 +9,7 @@ const ReglasSeguridadDetails = () => {
     return (
         <Fragment>
             <Navbar3 />
-            <PageTitle pageTitle="10 Reglas de oro de Ciberseguridad para Empleados de Mercafarma" pagesub="Políticas" />
+            <PageTitle pageTitle="Seguridad Digital para Colaboradores Mercafarma" pagesub="Seguridad" />
             <ReglasSeguridad />
             <Footer />
             <Scrollbar />
